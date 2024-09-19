@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NODE JS**
 
 - 👯 I’m looking to collaborate on [My Projects](https://github.com/devlohani99/webdev)
 
