@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devlohani99&label=Profile%20views&color=0e75b6&style=flat" alt="devlohani99" /> </p>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **Express**
 
 - 🌱 I’m currently learning **NODE JS**
 
