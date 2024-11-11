@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devlohani99&label=Profile%20views&color=0e75b6&style=flat" alt="devlohani99" /> </p>
 
-- 🔭 I’m currently working on **Express**
+- 🔭 I’m currently working on **MERN PROJECTS**
 
-- 🌱 I’m currently learning **NODE JS**
+- 🌱 I’m currently learning **Moongose**
 
 - 👯 I’m looking to collaborate on [My Projects](https://github.com/devlohani99/webdev)
 
