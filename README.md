@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MERN PROJECTS**
 
-- 🌱 I’m currently learning **Moongose**
+- 🌱 I’m currently learning **Mongoose**
 
 - 👯 I’m looking to collaborate on [My Projects](https://github.com/devlohani99/webdev)
 
