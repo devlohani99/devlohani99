@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [My Projects](https://github.com/devlohani99/webdev)
 
-- 💬 Ask me about **HTML, CSS, C++ and JS**
+- 💬 Ask me about **ReactJS, ExpressJs,MongoDB,NodeJS, HTML, CSS, C++  JS**
 
 - 📫 How to reach me **devlohani1425145@gmail.com**
 
