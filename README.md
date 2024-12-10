@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devlohani99&label=Profile%20views&color=0e75b6&style=flat" alt="devlohani99" /> </p>
 
-- 🔭 I’m currently working on **MERN PROJECTS**
+- 🔭 I’m currently working on **Full Stack Technology**
 
-- 🌱 I’m currently learning **Mongoose**
+- 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on [My Projects](https://github.com/devlohani99/webdev)
+- 👯 I’m not looking to collaborate 
 
 - 💬 Ask me about **ReactJS, ExpressJs,MongoDB,NodeJS, HTML, CSS, C++  JS**
 
