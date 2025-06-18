@@ -109,11 +109,7 @@ const devLohani = {
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devlohani99&theme=tokyonight)](https://git.io/streak-stats)
 
-</div>
 
 ---
 
