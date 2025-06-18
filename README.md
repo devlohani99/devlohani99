@@ -21,25 +21,25 @@
 ### 🌐 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/dev-l-512223204/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
   <a href="https://www.codechef.com/users/devlohani99" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="CodeChef" height="40" width="40"/>
   </a>
   <a href="https://codeforces.com/profile/devlohani99" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" alt="Codeforces" height="40" width="40"/>
   </a>
   <a href="https://leetcode.com/u/devlohani99/" target="_blank">
-    <img align="center" src="https://github.com/devlohani99/devlohani99/assets/142163543/f56f690e-45a3-4717-923c-26bc946019eb" alt="LeetCode" height="40" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40"/>
   </a>
   <a href="https://atcoder.jp/users/devlohani99" target="_blank">
-    <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-atcoder-japanese-competitive-programming-hosting-company-logo-shadow-tal-revivo.png" alt="AtCoder" height="40" width="40"/>
+    <img src="https://avatars.githubusercontent.com/u/71519106?s=280&v=4" alt="AtCoder" height="40" width="40"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/devlohani99" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" height="40" width="40"/>
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220630163644/GeeksforGeeks-Logo.png" alt="GeeksforGeeks" height="40" width="40"/>
   </a>
   <a href="https://www.naukri.com/code360/profile/devlohani" target="_blank">
-    <img align="center" src="https://media.licdn.com/dms/image/C560BAQHC8ZaJ6bTzfg/company-logo_200_200/0/1631347868855?e=2147483647&v=beta&t=kjOTySESH-SdrkHgwT1lhhM0QpnNHWrVLgy6XzZOB5I" alt="Coding Ninjas" height="40" width="40"/>
+    <img src="https://files.codingninjas.in/coding-ninjas-24647.png" alt="Coding Ninjas" height="40" width="40"/>
   </a>
 </p>
 
