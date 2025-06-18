@@ -12,7 +12,7 @@
 ### 🚀 About Me:
 - 🔭 I’m currently working on **Full Stack Web Development**
 - 🌱 I’m continuously learning **Next.js, TypeScript, and Backend Technologies**
-- 💬 Ask me about **Next.js, React.js, Express.js, MongoDB, Git, GitHub, HTML, CSS, JavaScript, C++**
+- 💬 Ask me about **Next.js, React.js, Express.js, MongoDB, Git, GitHub, JavaScript, C++**
 - 📫 Reach me at **devlohani1425145@gmail.com**
 - ⚡ Fun fact: **I love playing Agario 🎮**  
 
