@@ -72,20 +72,29 @@ const devLohani = {
 
 ---
 
-## 🏆  Programming Profiles
+## 🏆 Programming Profiles
 
-<div align="center">
+<p align="center">
+  <a href="https://www.codechef.com/users/devlohani99">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3628695-3031869.png?f=webp" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/devlohani99">
+    <img src="https://sta.codeforces.com/s/85981/images/codeforces-sponsored-by-ton.png" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/devlohani99/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
+  </a>
+  <a href="https://atcoder.jp/users/devlohani99">
+    <img src="https://avatars.githubusercontent.com/u/7151918?v=4" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/devlohani99">
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" width="40" />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/devlohani">
+    <img src="https://yt3.googleusercontent.com/TBh4O9qrVfwfvjkPvZZLfBQYvYyttj1b3tOJgKQZnV9ADTYmMtMMqCK74ehDyYjNIwMKk4kZ=s900-c-k-c0x00ffffff-no-rj" width="40" />
+  </a>
+</p>
 
-| Platform | Profile | Focus |
-|----------|---------|-------|
-| 🟠 **CodeChef** | [@devlohani99](https://www.codechef.com/users/devlohani99) | Algorithm Design |
-| 🔵 **Codeforces** | [@devlohani99](https://codeforces.com/profile/devlohani99) | Problem Solving |
-| 🟡 **LeetCode** | [@devlohani99](https://leetcode.com/u/devlohani99/) | Data Structures |
-| 🔴 **AtCoder** | [@devlohani99](https://atcoder.jp/users/devlohani99) | Competitive Programming |
-| 🟢 **GeeksforGeeks** | [@devlohani99](https://auth.geeksforgeeks.org/user/devlohani99) | Technical Interview Prep |
-| 🟠 **Coding Ninjas** | [@devlohani](https://www.naukri.com/code360/profile/devlohani) | Comprehensive Practice |
-
-</div>
 
 ---
 
