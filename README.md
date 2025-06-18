@@ -76,7 +76,7 @@ const devLohani = {
 
 <p align="center">
   <a href="https://www.codechef.com/users/devlohani99" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3628695-3031869.png" alt="CodeChef" width="40" height="40"/>
+    <img src="https://camo.githubusercontent.com/9a69397356c59f04f3307f4c37e3535c9fdf13f50e41d0da44f0ba841d11a3f6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e312e302f69636f6e732f636f6465636865662e737667" alt="CodeChef" width="40" height="40"/>
   </a>
   <a href="https://codeforces.com/profile/devlohani99" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40"/>
@@ -94,6 +94,7 @@ const devLohani = {
     <img src="https://yt3.googleusercontent.com/TBh4O9qrVfwfvjkPvZZLfBQYvYyttj1b3tOJgKQZnV9ADTYmMtMMqCK74ehDyYjNIwMKk4kZ=s900-c-k-c0x00ffffff-no-rj" alt="Coding Ninjas" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
