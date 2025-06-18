@@ -38,7 +38,7 @@
   <a href="https://auth.geeksforgeeks.org/user/devlohani99" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" height="40" width="40"/>
   </a>
-  <a href="https://www.codingninjas.com/codestudio/profile/3e2b2622-1c28-42f8-87b5-29200fdbd28b" target="_blank">
+  <a href="https://www.naukri.com/code360/profile/devlohani" target="_blank">
     <img align="center" src="https://media.licdn.com/dms/image/C560BAQHC8ZaJ6bTzfg/company-logo_200_200/0/1631347868855?e=2147483647&v=beta&t=kjOTySESH-SdrkHgwT1lhhM0QpnNHWrVLgy6XzZOB5I" alt="Coding Ninjas" height="40" width="40"/>
   </a>
 </p>
