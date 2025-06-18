@@ -22,14 +22,6 @@ const devLohani = {
 };
 ```
 
-- 🔭 Currently building **scalable web applications** with modern tech stack
-- 🌱 Expanding expertise in **Next.js, TypeScript, and Cloud Technologies**
-- 💡 Love tackling complex problems and optimizing performance
-- 🎯 Active competitive programmer across multiple platforms
-- 📧 Let's connect: **devlohani1425145@gmail.com**
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
