@@ -72,7 +72,7 @@ const devLohani = {
 
 ---
 
-## 🏆 Competitive Programming Journey
+## 🏆  Programming Profiles
 
 <div align="center">
 
