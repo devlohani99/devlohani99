@@ -34,7 +34,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40"/>
   </a>
   <a href="https://atcoder.jp/users/devlohani99" target="_blank">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAADg... (full string) ..." alt="AtCoder" height="40" width="40"/>
+    <img src="https://avatars.githubusercontent.com/u/7151918?v=4" alt="AtCoder" height="40" width="40"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/devlohani99" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40"/>
@@ -43,6 +43,7 @@
     <img src="https://yt3.googleusercontent.com/TBh4O9qrVfwfvjkPvZZLfBQYvYyttj1b3tOJgKQZnV9ADTYmMtMMqCK74ehDyYjNIwMKk4kZ=s900-c-k-c0x00ffffff-no-rj" alt="Coding Ninjas" height="40" width="40"/>
   </a>
 </p>
+
 
 
 ### 🛠️ Tech Stack:
