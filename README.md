@@ -116,19 +116,3 @@ const devLohani = {
 
 ---
 
-<div align="center">
-
-### 💭 Developer Quote
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-**Thanks for visiting! Let's build something amazing together** 🚀
-
-</div>
-
----
-
-<div align="center">
-  
-![Snake animation](https://github.com/devlohani99/devlohani99/blob/output/github-contribution-grid-snake.svg)
-
-</div>
