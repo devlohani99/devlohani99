@@ -19,6 +19,8 @@
 ---
 
 ### 🌐 Connect with Me:
+### 🌐 Connect with Me:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/dev-l-512223204/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
@@ -33,10 +35,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40"/>
   </a>
   <a href="https://atcoder.jp/users/devlohani99" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/71519106?s=280&v=4" alt="AtCoder" height="40" width="40"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-atcoder-japanese-competitive-programming-hosted-by-toyota-motor-corporation-logo-color-tal-revivo.png" alt="AtCoder" height="40" width="40"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/devlohani99" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220630163644/GeeksforGeeks-Logo.png" alt="GeeksforGeeks" height="40" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40"/>
   </a>
   <a href="https://www.naukri.com/code360/profile/devlohani" target="_blank">
     <img src="https://files.codingninjas.in/coding-ninjas-24647.png" alt="Coding Ninjas" height="40" width="40"/>
