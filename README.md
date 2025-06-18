@@ -18,7 +18,7 @@
 
 ---
 
-### 🌐 Connect with Me:
+
 ### 🌐 Connect with Me:
 
 <p align="left">
