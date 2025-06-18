@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dev Lohani </h1>
+<h1 align="center">Hi 👋, I'm Dev Lohani</h1>
 <h3 align="center">A Passionate Full-Stack Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -20,17 +20,26 @@
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/dev-l-512223204/" target="blank">
+  <a href="https://www.linkedin.com/in/dev-l-512223204/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
-  <a href="https://www.codechef.com/users/devlohani99" target="blank">
+  <a href="https://www.codechef.com/users/devlohani99" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40"/>
   </a>
-  <a href="https://codeforces.com/profile/devlohani99" target="blank">
+  <a href="https://codeforces.com/profile/devlohani99" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40"/>
   </a>
-  <a href="https://leetcode.com/u/devlohani99/" target="blank">
+  <a href="https://leetcode.com/u/devlohani99/" target="_blank">
     <img align="center" src="https://github.com/devlohani99/devlohani99/assets/142163543/f56f690e-45a3-4717-923c-26bc946019eb" alt="LeetCode" height="40" width="40"/>
+  </a>
+  <a href="https://atcoder.jp/users/devlohani99" target="_blank">
+    <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-atcoder-japanese-competitive-programming-hosting-company-logo-shadow-tal-revivo.png" alt="AtCoder" height="40" width="40"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/devlohani99" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" height="40" width="40"/>
+  </a>
+  <a href="https://www.codingninjas.com/codestudio/profile/3e2b2622-1c28-42f8-87b5-29200fdbd28b" target="_blank">
+    <img align="center" src="https://media.licdn.com/dms/image/C560BAQHC8ZaJ6bTzfg/company-logo_200_200/0/1631347868855?e=2147483647&v=beta&t=kjOTySESH-SdrkHgwT1lhhM0QpnNHWrVLgy6XzZOB5I" alt="Coding Ninjas" height="40" width="40"/>
   </a>
 </p>
 
@@ -89,5 +98,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devlohani99&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
-
