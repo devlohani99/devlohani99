@@ -2,7 +2,6 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;Passionate+Problem+Solver;Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devlohani99&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
