@@ -1,8 +1,6 @@
 
 
 
-
-## 🚀 About Me
 #    👋 Hello, I'm Dev Lohani
 ```javascript
 const devLohani = {
