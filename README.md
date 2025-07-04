@@ -1,13 +1,6 @@
 #                             👋 Hello, I'm Dev Lohani
 
-<div align="center">
-  
 
-![Profile Views](https://komarev.com/ghpvc/?username=devlohani99&label=Profile%20views&color=0e75b6&style=for-the-badge)
-
-</div>
-
----
 
 ## 🚀 About Me
 
