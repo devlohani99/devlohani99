@@ -6,9 +6,8 @@
 const devLohani = {
     location: "India 🇮🇳",
     role: "Full-Stack Developer",
-    currentFocus: ["Next.js", "TypeScript", "Backend Architecture"],
+    currentFocus: [ "Backend Architecture"],
     passions: ["Clean Code", "Problem Solving", "Competitive Programming"],
-    funFact: "I turn coffee into code and bugs into features ☕️"
 };
 ```
 
