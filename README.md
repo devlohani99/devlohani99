@@ -1,93 +1,94 @@
+import React from 'react'
 
-
-
-#    👋 Hello, I'm Dev Lohani
-```javascript
-const devLohani = {
-    location: "India 🇮🇳",
-    role: "Full-Stack Developer",
-    currentFocus: [ "Backend Architecture"],
-    passions: ["Clean Code", "Problem Solving", "Competitive Programming"],
-};
-```
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Frontend Technologies
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend & Database
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-
-
-
-
-</div>
-
----
-
-## 🏆 Programming Profiles
-
-<p align="center">
-  <a href="https://www.codechef.com/users/devlohani99" target="_blank">
-    <img src="https://camo.githubusercontent.com/9a69397356c59f04f3307f4c37e3535c9fdf13f50e41d0da44f0ba841d11a3f6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e312e302f69636f6e732f636f6465636865662e737667" alt="CodeChef" width="40" height="40"/>
-  </a>
-  <a href="https://codeforces.com/profile/devlohani99" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40"/>
-  </a>
-  <a href="https://leetcode.com/u/devlohani99/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-  </a>
-  <a href="https://atcoder.jp/users/devlohani99" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/7151918?v=4" alt="AtCoder" width="40" height="40"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/devlohani99" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="GFG" width="40" height="40"/>
-  </a>
-  <a href="https://www.naukri.com/code360/profile/devlohani" target="_blank">
-    <img src="https://yt3.googleusercontent.com/TBh4O9qrVfwfvjkPvZZLfBQYvYyttj1b3tOJgKQZnV9ADTYmMtMMqCK74ehDyYjNIwMKk4kZ=s900-c-k-c0x00ffffff-no-rj" alt="Coding Ninjas" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-
-
-
-
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-l-512223204/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devlohani1425145@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-
-</div>
-
----
+export default function UniqueGithubProfile({username='devlohani99',name='Dev Lohani',role='Full-Stack Developer',location='India 🇮🇳',bio='Backend Architecture · Clean Code · Competitive Programming',profiles=[]}){
+  const hash=(s)=>{let h=2166136261;for(let i=0;i<s.length;i++){h=((h^s.charCodeAt(i))*16777619)>>>0}return h}
+  const seed=hash(username).toString()
+  const rnd=(n)=>{let x=Number('0.'+((parseInt(seed,10)*9301+49297)%233280));return Math.floor(x*n)}
+  const palette=['#0f172a','#0ea5a4','#60a5fa','#f97316','#a78bfa']
+  const p1=palette[seed.charCodeAt(0)%palette.length]
+  const p2=palette[(seed.charCodeAt(1)||1)%palette.length]
+  const wobble=(i)=>((seed.charCodeAt(i%seed.length)%7)-3)
+  const glyphPath=(()=>{
+    const pts=[]
+    for(let i=0;i<6;i++){pts.push([20+i*12+ wobble(i),40+Math.sin((parseInt(seed)%100+i)/10)*18 +wobble(i)])}
+    let d=`M ${pts[0][0]} ${pts[0][1]}`
+    for(let i=1;i<pts.length;i++){d+=` C ${pts[i-1][0]+6} ${pts[i-1][1]-10} ${pts[i][0]-6} ${pts[i][1]+10} ${pts[i][0]} ${pts[i][1]}`}
+    return d
+  })()
+  return(
+    <div className="min-h-screen bg-gradient-to-b from-gray-900 to-gray-800 flex items-center justify-center p-8">
+      <div className="max-w-4xl w-full bg-white/5 backdrop-blur-md rounded-2xl shadow-2xl border border-white/5 overflow-hidden">
+        <div className="grid md:grid-cols-3 grid-cols-1 gap-6 p-8">
+          <div className="md:col-span-1 flex flex-col items-center justify-center gap-4">
+            <svg viewBox="0 0 240 140" className="w-56 h-36" preserveAspectRatio="xMidYMid meet">
+              <defs>
+                <linearGradient id="g1" x1="0" x2="1">
+                  <stop offset="0" stopColor={p1} stopOpacity="0.95"/>
+                  <stop offset="1" stopColor={p2} stopOpacity="0.8"/>
+                </linearGradient>
+                <filter id="f1" x="-20%" y="-20%" width="140%" height="140%">
+                  <feTurbulence baseFrequency="0.8" numOctaves="1" seed={seed.charCodeAt(0)%100} result="t"/>
+                  <feDisplacementMap in="SourceGraphic" in2="t" scale="6" xChannelSelector="R" yChannelSelector="G"/>
+                </filter>
+              </defs>
+              <rect x="0" y="0" width="240" height="140" rx="18" fill="url(#g1)" filter="url(#f1)"/>
+              <path d={glyphPath} fill="none" stroke="#081125" strokeWidth="3" strokeLinejoin="round" strokeLinecap="round" opacity="0.85"/>
+              <g transform="translate(140,28)">
+                <circle cx="0" cy="0" r="22" fill="rgba(255,255,255,0.06)"/>
+                <text x="0" y="6" fontSize="11" fontFamily="ui-sans-serif,system-ui,Segoe UI,Roboto" textAnchor="middle" fill="#fff">{username}</text>
+              </g>
+            </svg>
+            <h2 className="text-white text-xl font-semibold">{name}</h2>
+            <p className="text-slate-300 text-sm text-center">{role} · {location}</p>
+            <div className="flex gap-3 mt-2">
+              {profiles.map((p,i)=> (
+                <a key={i} href={p.url} target="_blank" rel="noreferrer" className="w-9 h-9 flex items-center justify-center rounded-full bg-white/6 border border-white/6 hover:scale-110 transition-transform"> 
+                  <img src={p.icon} alt={p.name} className="w-5 h-5"/>
+                </a>
+              ))}
+            </div>
+          </div>
+          <div className="md:col-span-2 p-4 flex flex-col gap-4">
+            <div className="flex items-center justify-between">
+              <div>
+                <h3 className="text-slate-200 text-lg font-medium">About</h3>
+                <p className="text-slate-300 mt-1">{bio}</p>
+              </div>
+              <div className="flex gap-2 items-center">
+                <div className="text-xs text-slate-400">Unique seed</div>
+                <div className="px-2 py-1 rounded-md bg-white/6 text-xs text-white">{seed}</div>
+              </div>
+            </div>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mt-1">
+              {['Next.js','React','TypeScript','Node.js','MongoDB','Tailwind','C++','Python'].map((t,i)=> (
+                <div key={i} className="p-3 rounded-xl bg-white/3 border border-white/4 flex items-center justify-between">
+                  <div className="text-sm font-semibold text-white">{t}</div>
+                  <div className="text-xs text-slate-300">{(seed.charCodeAt(i%seed.length)%900)+100}pts</div>
+                </div>
+              ))}
+            </div>
+            <div className="mt-2 bg-white/3 p-4 rounded-xl border border-white/5">
+              <h4 className="text-slate-100 font-medium">Procedural signature</h4>
+              <div className="mt-3 flex gap-3 items-center">
+                <svg viewBox="0 0 380 80" className="w-full h-20">
+                  <defs>
+                    <linearGradient id="sig" x1="0" x2="1">
+                      <stop offset="0" stopColor={p2}/>
+                      <stop offset="1" stopColor={p1}/>
+                    </linearGradient>
+                  </defs>
+                  <path d={glyphPath.replace(/M /,'M 20 ')} fill="none" stroke="url(#sig)" strokeWidth="4" strokeLinecap="round" strokeLinejoin="round"/>
+                </svg>
+                <div className="text-xs text-slate-300">Deterministic glyph generated from your username</div>
+              </div>
+            </div>
+            <div className="mt-auto flex gap-3 justify-end">
+              <button className="px-4 py-2 rounded-lg bg-white/6 hover:bg-white/8 transition">Download SVG</button>
+              <button className="px-4 py-2 rounded-lg bg-gradient-to-r from-teal-400 to-blue-500 text-black font-semibold">Use on GitHub</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  )
+}
